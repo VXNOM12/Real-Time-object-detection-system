@@ -100,8 +100,3 @@ pip install torch torchvision opencv-python numpy pillow
 - Integrate advanced models for better accuracy.
 - Provide pre-trained weights for specific datasets.
 
-## License
-
-This project is licensed under the MIT License.
-
----
