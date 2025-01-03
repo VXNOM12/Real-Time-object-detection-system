@@ -1,4 +1,4 @@
-s
+
 ---
 
 # Real-Time Object Detection with YOLOv5
@@ -87,7 +87,7 @@ pip install torch torchvision opencv-python numpy pillow
 
 ## Example Output
 
-![Object Detection Example](https://via.placeholder.com/800x400.png?text=Object+Detection+Example)
+![Object Detection Example](https://github.com/user-attachments/assets/8b48c2af-65ff-4cab-b387-f37e78bc330a)
 
 ## Known Issues
 
